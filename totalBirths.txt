@@ -1,0 +1,70 @@
+1998|Baltimore Ravens|0720|2628
+1997|St. Louis Rams|7040|2845
+1993|New England Patriots|1123|4144
+1994|Dallas Cowboys|1920|4328
+1995|Dallas Cowboys|1920|4401
+1996|San Francisco 49ers|7360|1754
+1999|San Francisco 49ers|7360|1696
+2000|New England Patriots|1123|6302
+1995|New England Patriots|1123|6173
+1998|New England Patriots|1123|6018
+1998|St. Louis Rams|7040|2848
+1993|Baltimore Ravens|0720|2744
+1995|Green Bay Packers|3080|250
+2000|Green Bay Packers|3080|233
+2002|Denver Broncos|2080|2833
+1997|San Francisco 49ers|7360|1633
+2002|Baltimore Ravens|0720|2650
+1997|Baltimore Ravens|0720|2641
+1996|St. Louis Rams|7040|2819
+1993|St. Louis Rams|7040|3000
+2002|Green Bay Packers|3080|251
+1999|Denver Broncos|2080|2544
+1997|Denver Broncos|2080|2335
+2002|San Francisco 49ers|7360|1698
+2001|St. Louis Rams|7040|2750
+1998|San Francisco 49ers|7360|1708
+1999|Dallas Cowboys|1920|5058
+2001|Denver Broncos|2080|2763
+1994|San Francisco 49ers|7360|1886
+1996|Denver Broncos|2080|2271
+1996|Baltimore Ravens|0720|2734
+1998|Green Bay Packers|3080|253
+2001|Dallas Cowboys|1920|5422
+1994|Denver Broncos|2080|2207
+2000|Denver Broncos|2080|2787
+1993|Green Bay Packers|3080|238
+2000|Dallas Cowboys|1920|5495
+2002|New England Patriots|1123|5869
+1996|Green Bay Packers|3080|226
+1997|New England Patriots|1123|6079
+1993|Dallas Cowboys|1920|4085
+2001|Baltimore Ravens|0720|2697
+2001|New England Patriots|1123|6294
+2001|Green Bay Packers|3080|260
+1995|Denver Broncos|2080|2198
+2000|St. Louis Rams|7040|2877
+1999|Baltimore Ravens|0720|2671
+1995|St. Louis Rams|7040|2858
+1996|Dallas Cowboys|1920|4573
+1998|Denver Broncos|2080|2470
+1999|Green Bay Packers|3080|252
+2001|San Francisco 49ers|7360|1715
+1996|New England Patriots|1123|6066
+1998|Dallas Cowboys|1920|4676
+2000|Baltimore Ravens|0720|2775
+1993|San Francisco 49ers|7360|1688
+1994|Baltimore Ravens|0720|2807
+1995|Baltimore Ravens|0720|2650
+1997|Green Bay Packers|3080|234
+1994|New England Patriots|1123|6165
+1993|Denver Broncos|2080|2105
+1999|St. Louis Rams|7040|2747
+1995|San Francisco 49ers|7360|1739
+2000|San Francisco 49ers|7360|1811
+1994|Green Bay Packers|3080|224
+1994|St. Louis Rams|7040|2949
+1999|New England Patriots|1123|6054
+1997|Dallas Cowboys|1920|4656
+2002|Dallas Cowboys|1920|5329
+2002|St. Louis Rams|7040|2697

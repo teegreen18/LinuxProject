@@ -1,0 +1,21 @@
+2000|Green Bay Packers|3080|233
+2002|St. Louis Rams|7040|2697
+2002|Dallas Cowboys|1920|5329
+2002|Denver Broncos|2080|2833
+2001|San Francisco 49ers|7360|1715
+2002|Baltimore Ravens|0720|2650
+2001|Dallas Cowboys|1920|5422
+2000|Denver Broncos|2080|2787
+2002|Green Bay Packers|3080|251
+2002|New England Patriots|1123|5869
+2001|Green Bay Packers|3080|260
+2001|New England Patriots|1123|6294
+2002|San Francisco 49ers|7360|1698
+2001|Denver Broncos|2080|2763
+2001|Baltimore Ravens|0720|2697
+2000|Dallas Cowboys|1920|5495
+2000|Baltimore Ravens|0720|2775
+2001|St. Louis Rams|7040|2750
+2000|San Francisco 49ers|7360|1811
+2000|St. Louis Rams|7040|2877
+2000|New England Patriots|1123|6302

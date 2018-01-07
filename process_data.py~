@@ -1,0 +1,33 @@
+masterDict = {}
+winnerFile = open("superbowl_winner.txt")
+for line in winnerFile:
+    fields = line.split("|")
+    year = fields[0]
+    code = fields[3].rstrip()
+    dataFile = open("totalBirths.txt")
+    count = 0
+    for line in dataFile:
+        fields = line.split("|")
+        if (fields[0] == year+1 or fields[0] == year-1) and fields[2] == code:
+            births = int(fields[3].rstrip())
+            count += births
+    avg = count/2
+    for line in dataFile:
+        fields = line.split("|")
+        if fields[0] == year and fields[2] == code:
+            numBirths = int(fields[3].rstrip())
+    masterDict[year] = numBirths, avg, code
+    dataFile.close()
+
+fout = open("winner_averages.txt", "w")    
+for key in masterDict:
+    year = key
+    numBirths = masterDict[key][0]
+    avgBirths = masterDict[key][1]
+    code = masterDict[key][2]
+    fout.write(str(year) + "|" + str(numBirths) + "|" + str(avgBirths) + "|" + str(code))
+fout.close()
+    
+    
+            
+        
